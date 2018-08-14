@@ -1,0 +1,5 @@
+INSERT INTO Monsters ("Level", "Name", "Type", HP, "Strength",
+  "Constitution", "Wisdom", "Intelligence", "Dexterity", "Charisma",
+  AC, "Reflex", "Fortitude", "Will", "Abilities")
+  VALUES (6, 'Orc', 'Fighter', 88, 23, 17, 14, 9, 16, 10,
+    23, 16, 19, 17, '');
